@@ -1,0 +1,58 @@
+@charset "utf-8";
+/* CSS Document */
+
+.aman
+{
+	background-color:#FFF;
+	border:auto;
+	border-radius:-10px;
+	margin: 6px;
+    padding: 12px;
+}
+
+.am
+{
+   background-color: #fff;
+    margin: -11px 481px 76px;
+    padding: 85px 97px 24px 17px;
+	border-radius:0px;
+	font-family: message-box;
+	width:259px;
+}
+
+.h3
+{
+	color: #fff;
+    font-size: 32px;
+	text-align:center;
+}
+.a
+{
+	color: #0FF;
+	font-size:25px;
+    margin: -31px 4px 11px 2px;
+    padding: -4px 72px 50px 82px;
+	
+}
+.button
+{
+	  background: #33b5e5 none repeat scroll 0 0;
+    border: 1px solid #d9d9d9;
+    border-radius: 0;
+    box-sizing: border-box;
+    color: white;
+    cursor: pointer;
+    display: inline-block;
+    font-family: Times;
+    font-size: 14px;
+    min-width: 90px;
+    padding: 10px;
+    text-shadow: none;
+    transition: all 0.3s ease 0s;
+}
+#ad
+{
+	margin: 0;
+    padding: 8px 8px 11px 2px;
+    width: 268px;
+}
